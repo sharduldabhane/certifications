@@ -15,5 +15,5 @@ This repo contains all my certifications.
 ## Machine Learning 
 
 1. [Supervised Learning - Stanford Online](https://github.com/supreethavadhani/certifications/blob/master/Machine_leanring_Regression_Stanford.png)
-2.[Advance Learning Algorithms - Stanford Online](https://github.com/supreethavadhani/certifications/blob/master/Machine_learning__Advance_Learning_Stanford.pdf)
+2. [Advance Learning Algorithms - Stanford Online](https://github.com/supreethavadhani/certifications/blob/master/Machine_learning__Advance_Learning_Stanford.pdf)
 3. [Complete Machine Learning Course - Udemy](https://github.com/supreethavadhani/certifications/blob/master/Udemy_Machine_Learning.pdf)
