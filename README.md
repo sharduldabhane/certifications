@@ -6,6 +6,12 @@ This repo contains all my certifications.
 
 1. [Angular-Basic-Hackerrank](https://github.com/supreethavadhani/certifications/blob/master/Angular_Basic_Hackerrank.png)
 2. [Angular-Intermediate-hackeerank](https://github.com/supreethavadhani/certifications/blob/master/Angular_Intermediate_HackerRank.png)
+3. [Chrome Developer Tools](https://github.com/supreethavadhani/certifications/blob/master/DEV_TOOLS_LINEDIN_LEARNING.pdf)
+
+## Backend
+
+1. [Express.js with Node](https://github.com/supreethavadhani/certifications/blob/master/Express_Linkedin_learning.pdf)
+2. [REST API](https://github.com/supreethavadhani/certifications/blob/master/REST_API_LINKEDIN_LEARNING.pdf)
 
 ## Software Engineering
 
