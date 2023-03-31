@@ -28,9 +28,12 @@
 ## Frontend Engineering
 
 - <img src="https://img.shields.io/badge/Angular-Basic-red.svg" alt="Angular-Basic"> [Angular Basic - Hackerrank](https://github.com/supreethavadhani/certifications/blob/master/Angular_Basic_Hackerrank.png)
-- <img src="https://img.shields.io/badge/Angular-Intermediate-red.svg" alt="Angular-Intermediate"> [Angular Intermediate - Hackerrank](https://github.com/supreethavadhani/certifications/blob/master/Angular_Intermediate_HackerRank.png)
+- <img src="https://img.shields.io/badge/Angular-Intermediate-red.svg" alt="Angular-Intermediate"> [Angular Intermediate - Hackerrank](https://github.com/supreethavadhani/certifications/blob/master/Webpack_linkedIn_learning.pdf)
+- <img src="https://img.shields.io/badge/Webpack-green.svg" alt="Webpack"> [Webpack - LinkedIn Learning](https://github.com/supreethavadhani/certifications/blob/master/Webpack_4_Essential_Training.pdf)
+- <img src="https://img.shields.io/badge/Angular%20Testing-orange.svg" alt="Angular Testing"> [Angular Testing - Pluralsight](https://github.com/supreethavadhani/certifications/blob/master/Angular_testing_linkedIn_learning.pdf)
 - <img src="https://img.shields.io/badge/Chrome%20Developer%20Tools-blue.svg" alt="Chrome Developer Tools"> [Chrome Developer Tools - LinkedIn Learning](https://github.com/supreethavadhani/certifications/blob/master/DEV_TOOLS_LINEDIN_LEARNING.pdf)
 - <img src="https://img.shields.io/badge/User%20Experience-blue.svg" alt="User Experience"> [User Experience - LinkedIn Learning](https://github.com/supreethavadhani/certifications/blob/master/User_experience_Linkedin_learning.pdf)
+
 
 ## Backend Engineering
 
