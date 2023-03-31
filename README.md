@@ -21,6 +21,8 @@
   <a href="https://www.python.org/"><img src="https://img.icons8.com/color/96/000000/python.png" width="96" height="96"></a>
   <a href="https://scikit-learn.org/stable/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="96" height="96"></a>
   <a href="https://developers.google.com/web/tools/chrome-devtools"><img src="https://img.icons8.com/color/96/000000/chrome.png" width="96" height="96"></a>
+    <a><img src="https://www.inflectra.com/Screenshot/948.aspx" width="120" height="96"></a>
+      <a><img src="https://i.pinimg.com/474x/a7/92/88/a79288f5b024eb19094cf0dedc9d57f8.jpg" width="120" height="96"></a>
 </p>
 
 ## Frontend Engineering
