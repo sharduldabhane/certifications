@@ -44,6 +44,7 @@
 
 - <img src="https://img.shields.io/badge/Jira-orange.svg" alt="Jira"> [Jira - LinkedIn Learning](https://github.com/supreethavadhani/certifications/blob/master/JIRA_LINKEDIN_LEARNING.pdf)
 - <img src="https://img.shields.io/badge/SDLC-blueviolet.svg" alt="SDLC"> [SDLC - LinkedIn Learning](https://github.com/supreethavadhani/certifications/blob/master/SDLC_LINKEDIN_LEARNING.pdf)
+- <img src="https://img.shields.io/badge/CI/CD-green.svg" alt="CI/CD"> [CI/CD - LinkedIn Learning] ()
 
 ## Machine Learning 
 
