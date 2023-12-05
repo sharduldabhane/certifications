@@ -42,8 +42,8 @@
 
 ## Software Engineering
 
-- <img src="https://img.shields.io/badge/Jira-orange.svg" alt="Jira"> [Jira - LinkedIn Learning](https://github.com/supreethavadhani/certifications/blob/master/Software%20Engineering-Certifications/JIRA_LINKEDIN_LEARNING.pdf)
-- <img src="https://img.shields.io/badge/SDLC-blueviolet.svg" alt="SDLC"> [SDLC - LinkedIn Learning](https://github.com/supreethavadhani/certifications/blob/master/Software%20Engineering-Certifications/SDLC_LINKEDIN_LEARNING.pdf)
+- <img src="https://img.shields.io/badge/Jira-orange.svg" alt="Jira"> [Jira - LinkedIn Learning](https://github.com/sharduldabhane/certifications/blob/master/Software%20Engineering-Certifications/JIRA_Certificate.pdf)
+- <img src="https://img.shields.io/badge/SDLC-blueviolet.svg" alt="SDLC"> [SDLC - LinkedIn Learning](https://github.com/sharduldabhane/certifications/blob/master/Software%20Engineering-Certifications/SDLC_Certificate.pdf)
 - <img src="https://img.shields.io/badge/CI/CD-green.svg" alt="CI/CD"> [CI/CD - LinkedIn Learning](https://github.com/supreethavadhani/certifications/blob/master/Software%20Engineering-Certifications/CI-CD-LinkedIn_learning.pdf)
 
 ## Machine Learning 
