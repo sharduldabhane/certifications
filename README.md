@@ -2,13 +2,7 @@
   <h1>Certifications</h1>
   <p>This repository contains a list of all my certifications.</p>
 </div>
-<p align="center">
-<a href="https://online.stanford.edu/"><img src="https://yt3.googleusercontent.com/j8Gqr1z_an8WEyAIXRdkPKdaYbnxCSLwPEZb9tF-YHk6sNyvWDCWAzNxM_NAbbOmpF8_99ytWQ=s176-c-k-c0x00ffffff-no-rj" width="120" height="120"></a>
-<a href="https://www.hackerrank.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="120" height="120"></a>
-<a href="https://www.linkedin.com/learning/"><img src="https://i.insider.com/5fc6823450e71a001155838e" width="120" height="120"></a>
-<a href="https://www.coursera.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/1200px-Coursera-Logo_600x600.svg.png" width="120" height="120"></a>
-<a href="https://www.udemy.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6pnP7ogI1KRCFoUL93oXbQGOabDnIkhIxZ2lsGzdxdJ2G88dSYh8ja7gJw4j9Uhwm-Cs&usqp=CAU" width="120" height="120"></a>
-</p>
+
 
 
 <hr>
